@@ -255,6 +255,7 @@
 				742E688A1EA1668D00697530 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
